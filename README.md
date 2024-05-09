@@ -7,7 +7,7 @@ Esta função compara duas datas inseridas pelo usuário. Ela pega as datas dos 
 
 2. obterIntervalo()
 
-Esta função calcula o número de dias entre duas datas inseridas pelo usuário. Assim como a função `verificarDatas()`, ela pega as datas dos campos de entrada 'data1comp' e 'data2comp'. Ela garante que a Data 1 seja a mais antiga trocando as datas, se necessário. Em seguida, ela calcula a diferença entre as duas datas em milissegundos, converte essa diferença em dias e exibe o resultado.
+Esta função calcula o número de dias entre duas datas inseridas pelo usuário. Assim como a função verificarDatas(), ela pega as datas dos campos de entrada 'data1comp' e 'data2comp'. Ela garante que a Data 1 seja a mais antiga trocando as datas, se necessário. Em seguida, ela calcula a diferença entre as duas datas em milissegundos, converte essa diferença em dias e exibe o resultado.
 
 3. formatarDataAtual()
 

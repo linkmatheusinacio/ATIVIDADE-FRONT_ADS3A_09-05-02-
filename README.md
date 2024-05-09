@@ -13,3 +13,5 @@ Esta função calcula o número de dias entre duas datas inseridas pelo usuário
 
 Esta função obtém a data e hora atuais, formata-as no formato "hora:minuto - dia/mês/ano" e exibe o resultado. Ela usa o objeto Date do JavaScript para obter a data e hora atuais e, em seguida, extrai o dia, mês, ano, hora e minuto. Note que ela adiciona 1 ao mês, já que os meses em JavaScript começam do 0.
 
+Só baixar e abrir o arquivo index.html
+
